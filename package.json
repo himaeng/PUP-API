@@ -1,0 +1,22 @@
+{
+  "name": "pup-api",
+  "version": "1.0.0",
+  "description": "node js api test for PUP shipping network application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apaichon",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "composer-admin": "latest",
+    "composer-cli": "latest",
+    "composer-client": "latest",
+    "composer-common": "latest",
+    "composer-connector-embedded": "latest",
+    "fs": "0.0.1-security",
+    "grpc": "1.10.1",
+    "websocket": "^1.0.25"
+  }
+}
