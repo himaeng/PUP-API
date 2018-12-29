@@ -17,6 +17,8 @@
     "composer-connector-embedded": "latest",
     "fs": "0.0.1-security",
     "grpc": "1.10.1",
+    "loopback-connector-mongodb": "^3.9.2",
+    "passport-github2": "^0.1.11",
     "websocket": "^1.0.25"
   }
 }
